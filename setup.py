@@ -4,4 +4,4 @@ setup(name='snowflake',
       description='This is snowflake package',
       author='Sahil Sharma',
       packages=['snowflake'],
-      install_requires=['numpy'])
+      install_requires=['numpy','turtles'])
